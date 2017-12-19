@@ -1,0 +1,11 @@
+{
+  "name": "wilder15/171219_dojo",
+  "require": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "WCS\\": "src/"
+    }
+  }
+}
